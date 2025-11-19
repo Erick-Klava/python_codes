@@ -1,0 +1,3 @@
+carteira=float(input('quantos reais vc tem na carteira: '))
+print(f'vc consegue comprar {carteira/3.27} dolares ')
+#era a cotação do dolar na epoca do video...

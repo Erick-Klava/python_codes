@@ -1,0 +1,12 @@
+num=int(input('seu numero é: '))
+print(f'a tabuada do {num} é :{num*1} ')
+print(f'o numero multiplicado por 2 é :{num*2} ')
+print(f'o numero multiplicado por 3 é :{num*3} ')
+print(f'o numero multiplicado por 4 é :{num*4} ')
+print(f'o numero multiplicado por 5 é :{num*5} ')
+print(f'o numero multiplicado por 6 é :{num*6} ')
+print(f'o numero multiplicado por 7 é :{num*7} ')
+print(f'o numero multiplicado por 8 é :{num*8} ')
+print(f'o numero multiplicado por 9 é :{num*9} ')
+print(f'o numero multiplicado por 10 é :{num*10} ')
+
