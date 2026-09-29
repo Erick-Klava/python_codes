@@ -1,2 +1,2 @@
-# codes
-random codes of me training
+# Python 
+random codes of me training python
